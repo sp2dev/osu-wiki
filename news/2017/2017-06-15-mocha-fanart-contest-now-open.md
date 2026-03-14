@@ -26,7 +26,7 @@ The top 10 entries selected by voters will receive 2 months of osu!supporter, as
 
 ## Rules
 
-- **Artists should use the custom templates provided: [PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017).**
+- **Artists should use the custom templates provided: [PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png).**
 - **The templates above denote WHERE THE osu! COOKIE IS LOCATED IN THE MAIN MENU**. This area should still be filled with illustration, but avoid drawing anything of main focus here as it will usually be hidden.
 - **Entries must meet the size requirements for a main-menu piece** (at least 1366x768, or higher. 2732x1536 is optimal wherever possible.)
 - **All entries must feature Mocha in some way**. You are free to include other characters if you wish.

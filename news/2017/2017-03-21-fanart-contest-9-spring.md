@@ -26,7 +26,7 @@ The top 10 entries as voted by the public will see their artists receive with 2 
 
 ## Rules
 
-- Artists should use the custom templates provided: [PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017).
+- Artists should use the custom templates provided: [PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png).
 - **The templates above denote WHERE THE osu! COOKIE IS LOCATED IN THE MAIN MENU**. You probably don't want to draw anything central to your piece inside the central circle, as it'll be occluded by the cookie on the main-menu.
 - Entries must meet the size requirements for a main-menu piece (at least 1366x768, or higher. 2732x1536 is optimal wherever possible.)
 - All entries must be at least vaguely "spring" themed, where spring is the turning of winter into.. not-winter. Whether you portray this through customs, a change in the environment, outfits, whatever - is entirely up to you, so long as it is about spring somehow.
